@@ -1,9 +1,3 @@
----
-title: TypesScript Package Template
-created: '2021-10-18T15:47:53.586Z'
-modified: '2021-10-18T15:57:53.365Z'
----
-
 # TypesScript Package Template
 
 Template contains setup for creating TypeScript npm packages.
